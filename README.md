@@ -3,8 +3,8 @@
 ## Installation
 To install this repository, first open a terminal and run the following commands:
 ```
-$ git clone https://github.com/AIMotionLab-SZTAKI/quadcopter_hook_1DoF
-$ cd quadcopter_hook_1DoF/
+$ git clone https://github.com/AIMotionLab-SZTAKI/quadcopter-hook-transportation-1DoF
+$ cd quadcopter-hook-transportation-1DoF/
 ```
 Now create a virtual environment:
 ```
